@@ -1,3 +1,5 @@
+//Finding square root
+
 #include<iostream>
 #include<cmath>
 using namespace std;
