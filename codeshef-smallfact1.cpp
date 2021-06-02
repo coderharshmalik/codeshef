@@ -1,3 +1,5 @@
+//Small factorial
+
 #include<iostream>
 using namespace std;
 
