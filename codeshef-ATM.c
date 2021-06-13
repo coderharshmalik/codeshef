@@ -1,3 +1,8 @@
+// this program is in c langauge
+// QUESTION NAME - ATM
+
+
+
 #include <stdio.h>
 int main() 
 {

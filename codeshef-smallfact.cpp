@@ -1,3 +1,8 @@
+//Small fact using fuction and array
+//memory occupied is more than Smallfact1 code
+
+
+
 #include<iostream>
 using namespace std;
 int fact(int a)
