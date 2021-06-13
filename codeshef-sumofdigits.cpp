@@ -1,19 +1,20 @@
 #include<iostream>
 using namespace std;
-
 int main()
 {
     int t;
     cin>>t;
     while(t--)
     {
-        int n,b=1;
+        int n,m,sum=0;
         cin>>n;
-        for(int i=1;i<=n;i++)
+        while(n>0)
         {
-            b=b*i;
+            m=n%10;
+            sum=sum+m;
+            n=n/10;
         }
-        cout<<b<<endl;
+        cout<<sum<<endl;
     }
     return 0;
 }
