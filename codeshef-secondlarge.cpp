@@ -1,13 +1,7 @@
-<<<<<<< HEAD
 //Second Largest
 
 #include<bits/stdc++.h>
 #include<climits>
-=======
-//Second largest
-
-#include<iostream>
->>>>>>> c14a69c67b6f1c9073ed4b3e8e5e815ee3e394f1
 using namespace std;
 int main()
 {
