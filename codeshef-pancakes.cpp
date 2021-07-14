@@ -1,23 +1,16 @@
-//Packaging Cupcakes 
-
-#include<bits/stdc++.h>
+#include <iostream>
 using namespace std;
-#define q int
-int main()
-{
-    q tc;
-    cin>>tc;
-    while(tc--)
-    {
-        q n;
+
+int main() {
+	// your code goes here
+    int t;
+    cin>>t;
+    int s=t;
+    while(t--){
+        int n;
         cin>>n;
-        q mx=0;
-        for(q i=2;i<n;i++)
-        {
-            q r=n%i;
-            mx=max(mx,r);
-        }
-        //........
+        cout<<n/2+1<<endl;  //   n/2 makes to half so the n/2+1 gives us the remaining as
+                            //   the max cupcakes he can eat
     }
-    return 0;
+	return 0;
 }
