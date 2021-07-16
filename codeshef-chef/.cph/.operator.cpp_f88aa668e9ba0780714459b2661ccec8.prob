@@ -1,0 +1,1 @@
+{"name":"Local: operator","url":"c:\\Users\\ASUS\\Desktop\\codeshef\\codeshef-chef\\operator.cpp","tests":[{"id":1626425671377,"input":"3\n10 20\n20 10\n10 10\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ASUS\\Desktop\\codeshef\\codeshef-chef\\operator.cpp","group":"local","local":true}
